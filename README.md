@@ -32,7 +32,3 @@ Una aplicación (Web/Offline) desarrollada en **Go** para la gestión de hábito
 
 ---
 
-## 📈 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=SemreH31&show_icons=true&theme=radical)
-
----
